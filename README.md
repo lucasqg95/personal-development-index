@@ -176,5 +176,20 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023?search=bootcamp&track=search">[Course] Bolsas Santander | Santander Bootcamp 2023 | Desenvolvimento Mobile Flutter</a> (0%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2023-08-16
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
 </ul>
 </br>
