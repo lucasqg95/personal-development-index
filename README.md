@@ -179,7 +179,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023?search=bootcamp&track=search">[Course] Bolsas Santander | Santander Bootcamp 2023 | Desenvolvimento Mobile Flutter</a> (0%)
+      <a href="https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023?search=bootcamp&track=search">[Course] Bolsas Santander | Santander Bootcamp 2023 | Desenvolvimento Mobile Flutter</a> (10%)
     </summary>
     <ul>
       <li>
